@@ -1,0 +1,21 @@
+.manage-accounts {
+  display: flex;
+  flex-direction: column;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.your-co-icon {
+  width: 250px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+.manage-accounts-title {
+  letter-spacing: -2px;
+  font-weight: 500;
+  width: 50px;
+  line-height: 20px;
+}

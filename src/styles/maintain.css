@@ -1,0 +1,24 @@
+.maintain {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: hsl(39, 100%, 71%);
+  border-radius: 10px;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+}
+
+.title-maintain {
+  font-size: 30px;
+  letter-spacing: -2px;
+  font-weight: 500;
+  line-height: 25px;
+  width: 150px;
+}
+
+.icon-consistent-schedule {
+  width: 150px;
+  position: absolute;
+  bottom: -50px;
+}

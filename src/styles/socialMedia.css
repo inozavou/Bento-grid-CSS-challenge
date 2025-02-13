@@ -1,0 +1,20 @@
+.social-media {
+  display: flex;
+  flex-direction: column;
+  background-color: hsl(256, 67%, 59%);
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+}
+.social-media-title {
+  color: white;
+  font-size: 60px;
+  font-weight: 400;
+}
+.social-media-text {
+  color: white;
+  font-size: 20px;
+  font-weight: 200;
+}

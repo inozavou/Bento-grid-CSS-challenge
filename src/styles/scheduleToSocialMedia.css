@@ -1,0 +1,28 @@
+.schedule-to-social {
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+  height: calc(100% + 260px);
+  background-color: hsl(254, 88%, 90%);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.title-schedule-to-social {
+  width: 180px;
+  padding: 30px;
+  font-weight: 500;
+}
+
+.image-schedule-to-social {
+  right: -40px;
+  width: 240px;
+  height: 240px;
+  padding: 30px;
+}
+
+.text-schedule-to-social {
+  font-size: 18px;
+  text-align: start;
+  padding: 30px;
+}
